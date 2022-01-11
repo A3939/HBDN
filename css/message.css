@@ -57,7 +57,7 @@
   font-family: 'Nunito', sans-serif;
   color: #fff;
   font-size: 28px;
-  line-height: 200%;
+  line-height: 150%;
   font-weight: 400;
   text-align: center;
   letter-spacing: 2px;
@@ -215,7 +215,7 @@ background: none;
 @media screen and (max-width: 767px) {
   .heading {
     font-size: 80px;
-    line-height: 90px;
+    line-height: 130%;
   }
 
   .text-block {
@@ -228,13 +228,13 @@ background: none;
   .heading {
     margin-top: 30px;
     font-size: 50px;
-    line-height: 80px;
+    line-height: 130%;
   }
 
   .text-block {
     padding-right: 32px;
     padding-left: 27px;
-    line-height: 25px;
+    line-height: 130%;
     text-align: center;
   }
 }
